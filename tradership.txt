@@ -1,0 +1,374 @@
+// Chernogorsk Trader Ship Location for Dr Jones Trader Mod
+
+// This Adds the following:
+// - A docked ship at Cherno with 5 trader people
+// - Dock cranes with containers
+// - A vehicle seller opposite the ship
+// - A tenements building on the edge of the city overlooking the ship
+// - A drydocked ship in the industrial area
+// - 2 ships at sea visible from the container yard and city
+
+// To Install:
+// Make sure you have the "Trader" mod by Dr Jones
+// Put this file "tradership.txt" in the "Trader" folder on your server.
+// This will be in your Profile or SC folder depending on your server provider.
+// Open your existing "TraderObjects.txt" file.
+// At the bottom, on a new line just above "<FileEnd>", add "<OpenFile> tradership.txt".
+// Or if you are familiar with editing the Trader config files you can paste this
+// file's contents into your existing TraderObjects minus the last "<FileEnd>" line.
+
+// Trader Ship People:
+
+<TraderMarker> 0
+<TraderMarkerPosition> 6885.96, 7.55876, 2654.1
+<TraderMarkerSafezone> 36
+<Object> SurvivorF_Irena
+<ObjectPosition> 6885.96, 7.55876, 2654.1
+<ObjectOrientation> 180, 0, 0
+<ObjectAttachment> BoxCerealCrunchin
+<ObjectAttachment> SurgicalGloves_White
+<ObjectAttachment> Bandana_Polkapattern
+<ObjectAttachment> MiniDress_PinkChecker
+<ObjectAttachment> DressShoes_White
+
+<TraderMarker> 1
+<TraderMarkerPosition> 6886.17, 7.5589, 2642.67
+<TraderMarkerSafezone> 33
+<Object> SurvivorF_Keiko
+<ObjectPosition> 6886.17, 7.5589, 2642.67
+<ObjectOrientation> 0, 0, 0
+<ObjectAttachment> Wrench
+<ObjectAttachment> SledgeHammer
+<ObjectAttachment> WorkingGloves_Brown
+<ObjectAttachment> ConstructionHelmet_White
+<ObjectAttachment> Shirt_BlueCheck
+<ObjectAttachment> CanvasPants_Blue
+<ObjectAttachment> WorkingBoots_Grey
+
+<TraderMarker> 2 
+<TraderMarkerPosition> 6892, 7.55878, 2653.3
+<TraderMarkerSafezone> 35
+<Object> SurvivorM_Seth
+<ObjectPosition> 6892, 7.55878, 2653.3
+<ObjectOrientation> -135, 0, 0
+<ObjectAttachment> FirefighterAxe
+<ObjectAttachment> SVD
+<ObjectAttachment> PSO1Optic
+<ObjectAttachment> M4A1
+<ObjectAttachment> M4_RISHndgrd
+<ObjectAttachment> Universallight
+<ObjectAttachment> M4_OEBttstck
+<ObjectAttachment> M68Optic
+<ObjectAttachment> M4_Suppressor
+<ObjectAttachment> OMNOGloves_Gray
+<ObjectAttachment> MilitaryBeret_CDF
+<ObjectAttachment> PlateCarrierVest
+<ObjectAttachment> TTsKOJacket_Camo
+<ObjectAttachment> TTSKOPants
+<ObjectAttachment> MilitaryBoots_Black
+<ObjectAttachment> AliceBag_Camo
+
+<TraderMarker> 3
+<TraderMarkerPosition> 6892.2, 7.5589, 2643.57
+<TraderMarkerSafezone> 35
+<Object> SurvivorM_Taiki
+<ObjectPosition> 6892.2, 7.5589, 2643.57
+<ObjectOrientation> -45, 0, 0
+<ObjectAttachment> Mag_STANAG_30Rnd
+<ObjectAttachment> SportGlasses_Orange
+<ObjectAttachment> BaseballCap_Camo
+<ObjectAttachment> TacticalShirt_Olive
+<ObjectAttachment> SmershVest
+<ObjectAttachment> BDUPants
+<ObjectAttachment> TTSKOBoots
+<ObjectAttachment> AssaultBag_Ttsko
+
+<TraderMarker> 4
+<TraderMarkerPosition> 6877.99, 7.5589, 2642.97
+<TraderMarkerSafezone> 27
+<Object> SurvivorF_Frida
+<ObjectPosition> 6877.99, 7.5589, 2642.97
+<ObjectOrientation> 45, 0, 0
+<ObjectAttachment> ThickFramesGlasses
+<ObjectAttachment> WomanSuit_Black
+<ObjectAttachment> SlacksPants_Black
+<ObjectAttachment> DressShoes_Black
+
+<TraderMarker> 5
+<TraderMarkerPosition> 6836.73, 3.193, 2659.11
+<TraderMarkerSafezone> 16
+<VehicleSpawn> 6828.23, 6, 2666
+<VehicleSpawnOri> 90, 0, 0
+<Object> SurvivorM_Peter
+<ObjectPosition> 6836.73, 3.193, 2659.11
+<ObjectOrientation> 90, 0, 0
+<ObjectAttachment> LugWrench
+<ObjectAttachment> WorkingGloves_Black
+<ObjectAttachment> ReflexVest
+<ObjectAttachment> JumpsuitJacket_Blue
+<ObjectAttachment> JumpsuitPants_Blue
+<ObjectAttachment> HikingBootsLow_Blue
+
+// Trader Ship 
+
+<Object> Land_Ship_Big_FrontA
+<ObjectPosition> 6888.49, 12, 2600
+<ObjectOrientation> 90, 0, 0
+
+<Object> Land_Ship_Big_FrontB
+<ObjectPosition> 6886.18, 10.5, 2619.9
+<ObjectOrientation> 90, 0, 0
+
+<Object> Land_Ship_Big_BackA
+<ObjectPosition> 6884.95, 12, 2655.4
+<ObjectOrientation> 90, 0, 0
+
+<Object> Land_Ship_Big_BackB
+<ObjectPosition> 6885.5, 10.5, 2675
+<ObjectOrientation> 90, 0, 0
+
+<Object> Land_Ship_Big_Castle
+<ObjectPosition> 6885.3, 20.65, 2663.6
+<ObjectOrientation> 90, 0, 0
+
+<Object> Bonfire
+<ObjectPosition> 6885, 21, 2670
+<ObjectOrientation> 0, 0, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 6885.3, -7.55, 2641.5
+<ObjectOrientation> 0, 10, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 6885.3, -7.55, 2623.5
+<ObjectOrientation> 0, 10, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 6885.3, -7.55, 2597.6
+<ObjectOrientation> 0, 10, 0
+
+<Object> Land_Pier_Crane_A
+<ObjectPosition> 6866.5, 8.3, 2574
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Pier_Crane_b
+<ObjectPosition> 6869.5, 21.2, 2578.2
+<ObjectOrientation> -45, 0, 0
+
+<Object> Land_Pier_Crane_A
+<ObjectPosition> 6867.5, 8.3, 2706
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Pier_Crane_b
+<ObjectPosition> 6872.2, 21.2, 2703
+<ObjectOrientation> 30, 0, 0
+
+<Object> Land_Container_1Aoh
+<ObjectPosition> 6877.9, 11.8, 2587
+<ObjectOrientation> 22, 0, 0
+
+<Object> Land_Container_1Bo
+<ObjectPosition> 6867, 4.1, 2585
+<ObjectOrientation> 12, 0, 0
+
+<Object> Land_Castle_Stairs
+<ObjectPosition> 6867.1, 0.65, 2648.5
+<ObjectOrientation> 0, 0, 0
+
+<Object> StaticObj_Wall_CncBarrier_Block
+<ObjectPosition> 6876.6, 6.6, 2649.5
+<ObjectOrientation> 90, 0, 180
+
+<Object> Land_Roadblock_Table
+<ObjectPosition> 6878.4, 7.9, 2643.6
+<ObjectOrientation> 45, 0, 0
+
+<Object> Land_Roadblock_Table
+<ObjectPosition> 6886, 7.9, 2643.4
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Roadblock_Table
+<ObjectPosition> 6886, 7.9, 2653.4
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Roadblock_Table
+<ObjectPosition> 6891.7, 7.9, 2652.6
+<ObjectOrientation> 45, 0, 0
+
+<Object> Land_Roadblock_Table
+<ObjectPosition> 6891.6, 7.9, 2644
+<ObjectOrientation> -45, 0, 0
+
+<Object> Land_Roadblock_Table
+<ObjectPosition> 6878.4, 7.9, 2653
+<ObjectOrientation> -45, 0, 0
+
+<Object> Land_Mil_GuardShed
+<ObjectPosition> 6836.5, 3.5, 2659.1
+<ObjectOrientation> -90, 0, 0
+
+<Object> Land_RoadCone
+<ObjectPosition> 6833.5, 3, 2669
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_RoadCone
+<ObjectPosition> 6833.5, 3, 2663.5
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_RoadCone
+<ObjectPosition> 6829, 3, 2669
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_RoadCone
+<ObjectPosition> 6829, 3, 2663.5
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_RoadCone
+<ObjectPosition> 6824, 3, 2669
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_RoadCone
+<ObjectPosition> 6824, 3, 2663.5
+<ObjectOrientation> 0, 0, 0
+
+<Object> StaticObj_Wall_FenR_3
+<ObjectPosition> 6822.4, 4.2, 2662.5
+<ObjectOrientation> 65, 0, 0
+
+<Object> StaticObj_Wall_FenR_3
+<ObjectPosition> 6824.3, 4.2, 2660
+<ObjectOrientation> -160, 0, 0
+
+// Cherno Drydock Ship
+
+<Object> Land_Ship_Big_FrontA
+<ObjectPosition> 7137, 24.4, 2614
+<ObjectOrientation> 143, 0, 0
+
+<Object> Land_Ship_Big_FrontB
+<ObjectPosition> 7151.5, 22.9, 2627.8
+<ObjectOrientation> 143, 0, 0
+
+<Object> Land_Ship_Big_BackA
+<ObjectPosition> 7178.9, 24.4, 2650
+<ObjectOrientation> 143, 0, 0
+
+<Object> Land_Ship_Big_BackB
+<ObjectPosition> 7194.9, 22.8, 2661.3
+<ObjectOrientation> 143, 0, 0
+
+<Object> Land_Ship_Big_Castle
+<ObjectPosition> 7185.7, 33.05, 2654.6
+<ObjectOrientation> 143, 0, 0
+
+<Object> Land_Misc_Scaffolding
+<ObjectPosition> 7166, 8.6, 2655.41
+<ObjectOrientation> 53, 0, 0
+
+<Object> Land_Misc_Scaffolding
+<ObjectPosition> 7136.5, 8.6, 2632
+<ObjectOrientation> 48, 0, 0
+
+// Cherno Flat
+
+<Object> Land_Tenement_big
+<ObjectPosition> 6779.5, 26, 2513.2
+<ObjectOrientation> 0, 0, 0
+
+<Object> StaticObj_Garbage_Pile4
+<ObjectPosition> 6787.5, 3.1, 2503.1
+<ObjectOrientation> 10, 0, 0
+
+<Object> StaticObj_Platform2_Stairs_30
+<ObjectPosition> 6779, 3.9, 2525
+<ObjectOrientation> 180, 0, 0
+
+<Object> StaticObj_Platform2_Stairs_30_WallR
+<ObjectPosition> 6780.25, 3.9, 2524.1
+<ObjectOrientation> 180, 0, 0
+
+<Object> StaticObj_Platform2_Stairs_30_WallL
+<ObjectPosition> 6777.8, 3.9, 2524.1
+<ObjectOrientation> 180, 0, 0
+
+<Object> StaticObj_Road_Sidewalk_Stairs
+<ObjectPosition> 6778.27, 7.06, 2516.9
+<ObjectOrientation> 0, 0, 0
+
+// Cherno Ship Near
+
+<Object> Land_Ship_Big_FrontA
+<ObjectPosition> 7059, 13, 2207
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Ship_Big_FrontB
+<ObjectPosition> 7039.1, 11.5, 2204.65
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Ship_Big_BackA
+<ObjectPosition> 7005, 13, 2203.4
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Ship_Big_BackB
+<ObjectPosition> 6985.3, 11.5, 2204
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Ship_Big_Castle
+<ObjectPosition> 6996.7, 21.65, 2203.75
+<ObjectOrientation> 0, 0, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 7027.1, -6.42, 2204
+<ObjectOrientation> 90, 10, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 7019, -6.42, 2204
+<ObjectOrientation> -90, 10, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 7061.3, -6.42, 2204
+<ObjectOrientation> -90, 10, 0
+
+<Object> Bonfire
+<ObjectPosition> 6990.5, 21.5, 2204
+<ObjectOrientation> 0, 0, 0
+
+// Cherno Ship Far
+
+<Object> Land_Ship_Big_FrontA
+<ObjectPosition> 7859, 13, 2207
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Ship_Big_FrontB
+<ObjectPosition> 7839.1, 11.5, 2204.65
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Ship_Big_BackA
+<ObjectPosition> 7805, 13, 2203.4
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Ship_Big_BackB
+<ObjectPosition> 7785.3, 11.5, 2204
+<ObjectOrientation> 0, 0, 0
+
+<Object> Land_Ship_Big_Castle
+<ObjectPosition> 7796.7, 21.65, 2203.75
+<ObjectOrientation> 0, 0, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 7827.1, -6.42, 2204
+<ObjectOrientation> 90, 10, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 7819, -6.42, 2204
+<ObjectOrientation> -90, 10, 0
+
+<Object> StaticObj_Tisy_RadarPlatform_Mid
+<ObjectPosition> 7861.3, -6.42, 2204
+<ObjectOrientation> -90, 10, 0
+
+<Object> Bonfire
+<ObjectPosition> 7790.5, 21.5, 2204
+<ObjectOrientation> 0, 0, 0
+
+<FileEnd>

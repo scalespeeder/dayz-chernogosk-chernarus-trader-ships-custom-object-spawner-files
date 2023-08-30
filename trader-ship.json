@@ -1,0 +1,859 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Ship_Big_FrontA",
+            "pos": [
+                6888.490234375,
+                12.0,
+                2600.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_FrontB",
+            "pos": [
+                6886.18017578125,
+                10.5,
+                2619.89990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_BackA",
+            "pos": [
+                6884.9501953125,
+                12.0,
+                2655.39990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_BackB",
+            "pos": [
+                6885.5,
+                10.5,
+                2675.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_Castle",
+            "pos": [
+                6885.2998046875,
+                20.649999618530275,
+                2663.60009765625
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                6885.0,
+                21.0,
+                2670.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                6885.2998046875,
+                -7.550000190734863,
+                2641.5
+            ],
+            "ypr": [
+                0.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                6885.2998046875,
+                -7.550000190734863,
+                2623.5
+            ],
+            "ypr": [
+                0.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                6885.2998046875,
+                -7.550000190734863,
+                2597.60009765625
+            ],
+            "ypr": [
+                0.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Pier_Crane_A",
+            "pos": [
+                6866.5,
+                8.300000190734864,
+                2574.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Pier_Crane_b",
+            "pos": [
+                6869.5,
+                21.200000762939454,
+                2578.199951171875
+            ],
+            "ypr": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Pier_Crane_A",
+            "pos": [
+                6867.5,
+                8.300000190734864,
+                2706.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Pier_Crane_b",
+            "pos": [
+                6872.2001953125,
+                21.200000762939454,
+                2703.0
+            ],
+            "ypr": [
+                30.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Container_1Aoh",
+            "pos": [
+                6877.89990234375,
+                11.800000190734864,
+                2587.0
+            ],
+            "ypr": [
+                21.999996185302736,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Container_1Bo",
+            "pos": [
+                6867.0,
+                4.099999904632568,
+                2585.0
+            ],
+            "ypr": [
+                12.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                6867.10009765625,
+                0.6499999761581421,
+                2648.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Wall_CncBarrier_Block",
+            "pos": [
+                6876.60009765625,
+                6.599999904632568,
+                2649.5
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -179.9999542236328
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6878.39990234375,
+                7.900000095367432,
+                2643.60009765625
+            ],
+            "ypr": [
+                45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6886.0,
+                7.900000095367432,
+                2643.39990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6886.0,
+                7.900000095367432,
+                2653.39990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6891.7001953125,
+                7.900000095367432,
+                2652.60009765625
+            ],
+            "ypr": [
+                45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6891.60009765625,
+                7.900000095367432,
+                2644.0
+            ],
+            "ypr": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Roadblock_Table",
+            "pos": [
+                6878.39990234375,
+                7.900000095367432,
+                2653.0
+            ],
+            "ypr": [
+                -45.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Mil_GuardShed",
+            "pos": [
+                6836.5,
+                3.5,
+                2659.10009765625
+            ],
+            "ypr": [
+                -90.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Wall_FenR_3",
+            "pos": [
+                6822.39990234375,
+                4.199999809265137,
+                2662.5
+            ],
+            "ypr": [
+                64.99999237060547,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Wall_FenR_3",
+            "pos": [
+                6824.2998046875,
+                4.199999809265137,
+                2660.0
+            ],
+            "ypr": [
+                -159.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_FrontA",
+            "pos": [
+                7137.0,
+                24.399999618530275,
+                2614.0
+            ],
+            "ypr": [
+                142.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_FrontB",
+            "pos": [
+                7151.5,
+                22.899999618530275,
+                2627.800048828125
+            ],
+            "ypr": [
+                142.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_BackA",
+            "pos": [
+                7178.89990234375,
+                24.399999618530275,
+                2650.0
+            ],
+            "ypr": [
+                142.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_BackB",
+            "pos": [
+                7194.89990234375,
+                22.799999237060548,
+                2661.300048828125
+            ],
+            "ypr": [
+                142.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_Castle",
+            "pos": [
+                7185.7001953125,
+                33.04999923706055,
+                2654.60009765625
+            ],
+            "ypr": [
+                142.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Scaffolding",
+            "pos": [
+                7166.0,
+                8.600000381469727,
+                2655.409912109375
+            ],
+            "ypr": [
+                53.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Scaffolding",
+            "pos": [
+                7136.5,
+                8.600000381469727,
+                2632.0
+            ],
+            "ypr": [
+                48.000003814697269,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Tenement_big",
+            "pos": [
+                6779.5,
+                26.0,
+                2513.199951171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile4",
+            "pos": [
+                6787.5,
+                3.0999999046325685,
+                2503.10009765625
+            ],
+            "ypr": [
+                10.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Platform2_Stairs_30",
+            "pos": [
+                6779.0,
+                3.9000000953674318,
+                2525.0
+            ],
+            "ypr": [
+                -179.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Platform2_Stairs_30_WallR",
+            "pos": [
+                6780.25,
+                3.9000000953674318,
+                2524.10009765625
+            ],
+            "ypr": [
+                -179.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Platform2_Stairs_30_WallL",
+            "pos": [
+                6777.7998046875,
+                3.9000000953674318,
+                2524.10009765625
+            ],
+            "ypr": [
+                -179.9999542236328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                6778.27001953125,
+                7.059999942779541,
+                2516.89990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_FrontA",
+            "pos": [
+                7059.0,
+                13.0,
+                2207.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_FrontB",
+            "pos": [
+                7039.10009765625,
+                11.5,
+                2204.64990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_BackA",
+            "pos": [
+                7005.0,
+                13.0,
+                2203.39990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_BackB",
+            "pos": [
+                6985.2998046875,
+                11.5,
+                2204.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_Castle",
+            "pos": [
+                6996.7001953125,
+                21.649999618530275,
+                2203.75
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                7027.10009765625,
+                -6.420000076293945,
+                2204.0
+            ],
+            "ypr": [
+                90.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                7019.0,
+                -6.420000076293945,
+                2204.0
+            ],
+            "ypr": [
+                -90.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                7061.2998046875,
+                -6.420000076293945,
+                2204.0
+            ],
+            "ypr": [
+                -90.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                6990.5,
+                21.5,
+                2204.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_FrontA",
+            "pos": [
+                7859.0,
+                13.0,
+                2207.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_FrontB",
+            "pos": [
+                7839.10009765625,
+                11.5,
+                2204.64990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_BackA",
+            "pos": [
+                7805.0,
+                13.0,
+                2203.39990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_BackB",
+            "pos": [
+                7785.2998046875,
+                11.5,
+                2204.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ship_Big_Castle",
+            "pos": [
+                7796.7001953125,
+                21.649999618530275,
+                2203.75
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                7827.10009765625,
+                -6.420000076293945,
+                2204.0
+            ],
+            "ypr": [
+                90.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                7819.0,
+                -6.420000076293945,
+                2204.0
+            ],
+            "ypr": [
+                -90.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Tisy_RadarPlatform_Mid",
+            "pos": [
+                7861.2998046875,
+                -6.420000076293945,
+                2204.0
+            ],
+            "ypr": [
+                -90.0,
+                9.99999713897705,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                7790.5,
+                21.5,
+                2204.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}
