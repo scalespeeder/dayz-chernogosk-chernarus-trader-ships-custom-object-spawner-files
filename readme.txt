@@ -4,7 +4,7 @@ ORIGINAL MOD BY N10248 = A BIG THANKS TO HIM & Reaper 1of4 WHO CREATED IT!
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3022530513
 
-(See his instructions at above page for how to install structure as a trader base).
+(See his instructions at above page for how to install structure as a DR Jones PC Mod trader base).
 
 Spawns a number of large ships and other structures around the docks in Chernogorsk on Chernrus which is on the Docks in Svetlojarsk on Chernarus.
 
